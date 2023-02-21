@@ -1,4 +1,4 @@
-E-Shopping and E-Commerce
+# E-Shopping and E-Commerce
 
 This is a software engineering workshop university project that aims to provide an online shopping platform for customers to browse and purchase products.
 Features
@@ -72,7 +72,7 @@ git push origin [branch-name]
 
     Create a pull request
 
-License
+# License
 
 This project is licensed under the MIT license. See the LICENSE file for more details.
 Contact
